@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #### Quora Insincere Questions Classification
 
 This is the code I used for [Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification) Natural Language Processing.
@@ -20,7 +21,7 @@ This is the code I used for [Quora Insincere Questions Classification](https://w
 - [x] Check Different Embedding Combinations
 - [x] Add insincere words  --> No Diff
 - [x] Check n_split==1 and ensemble (Reverse + Simple)
-- [x]`torch.backends.cudnn.benchmark = True
+- [x] torch.backends.cudnn.benchmark = True
 - [x] Check different loss functions
 - [x] Check different architectures
 - [x] Check [Fork of Mix of NN models \| Kaggle](https://www.kaggle.com/shujian/fork-of-mix-of-nn-models)
@@ -62,3 +63,6 @@ Subs:
 2. [Final Sub](https://www.kaggle.com/harmandeepsingh01/once111) `v2--6943`   v3--6929
 4. [6](https://www.kaggle.com/harmandeepsingh01/once-check-6/edit) `6843`
 5. [Once222](https://www.kaggle.com/harmandeepsingh01/once222)
+=======
+# Kaggle-Quora-insincere-questions-classification
+>>>>>>> 0de2bbaf81a72fd6f680df9207fb03b1d62d9b92
