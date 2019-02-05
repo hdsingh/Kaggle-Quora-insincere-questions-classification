@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #### Quora Insincere Questions Classification
 
 This is the code I used for [Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification) Natural Language Processing.
@@ -21,7 +20,7 @@ This is the code I used for [Quora Insincere Questions Classification](https://w
 - [x] Check Different Embedding Combinations
 - [x] Add insincere words  --> No Diff
 - [x] Check n_split==1 and ensemble (Reverse + Simple)
-- [x] torch.backends.cudnn.benchmark = True
+- [x]`torch.backends.cudnn.benchmark = True
 - [x] Check different loss functions
 - [x] Check different architectures
 - [x] Check [Fork of Mix of NN models \| Kaggle](https://www.kaggle.com/shujian/fork-of-mix-of-nn-models)
@@ -63,6 +62,69 @@ Subs:
 2. [Final Sub](https://www.kaggle.com/harmandeepsingh01/once111) `v2--6943`   v3--6929
 4. [6](https://www.kaggle.com/harmandeepsingh01/once-check-6/edit) `6843`
 5. [Once222](https://www.kaggle.com/harmandeepsingh01/once222)
-=======
-# Kaggle-Quora-insincere-questions-classification
->>>>>>> 0de2bbaf81a72fd6f680df9207fb03b1d62d9b92
+
+
+
+-------------------
+1. `Done`
+#1 6774 512 5
+#2  6790 4 512
+#3  `6799 4 256`
+#4  6798 3 256
+
+
+---------------------
+2. `Done` `Final`
+#1 6765 5 512 
+#2 6807 4 512
+#3 6762 3 512
+#4 `6828 3 256`
+
+
+-------------------
+
+3.`Done` 
+#1 6747 512 5
+
+#2 6782 512 4
+
+#3 6768 512 3
+
+#4` 6809 256 3`
+
+#5 6800 256 4
+ 
+ 
+-----------------------
+
+
+
+4.
+#1 6793 512 5
+
+#2 6766 512 4
+
+#3 6816 512 3
+
+#4 0000 256 3
+
+
+ 
+------------
+
+
+5.`Done` `Final`
+
+#1 6834 512 6
+
+#2 `6859 512 5`  600s/epoch
+
+#3 6825 256 4
+
+#4 6834 256 5
+
+
+----------
+
+6.   
+#1 `6843 512  6`
