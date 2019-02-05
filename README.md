@@ -1,8 +1,8 @@
-#### Quora Insincere Questions Classification
+# Quora Insincere Questions Classification
 
 This is the code I used for [Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification) Natural Language Processing.
 
-#### Ideas that worked:
+## Ideas that worked:
 1. Not removing punctuations Tokenizer(fiters = 'None')
 2. Captalize to find more Embeddings, 
 3. Mean Embeddings
@@ -14,7 +14,7 @@ This is the code I used for [Quora Insincere Questions Classification](https://w
 
 
 
-##### Todo:
+### Todo:
 - [x] Add more preprocessing [Improve your Score with some Text Preprocessing \| Kaggle](https://www.kaggle.com/theoviel/improve-your-score-with-some-text-preprocessing)
 - [x] Merge Concat, no_filter, rev, More Features
 - [x] Check Different Embedding Combinations
